@@ -1,4 +1,4 @@
-## About me
+## 🙋🏻‍♂️ About me
 
 I'm a young French guy with a passion for tech and everything that is computer related. I graduated from ESEO in September 2024, and initially specialised in Embedded Systems before finding my true passion in DevOps.
 
@@ -15,7 +15,11 @@ You can reach me on LinkedIn or by Mail for any work related stuff through the f
   <a href="mailto:kosonmilo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
 </p>
 
-## My Tech Stack
+### 💡 Philosophy
+
+> **"I may be far from knowing it all, but I'm never far from learning it all."**
+
+## 🛠️ My Tech Stack
 
 ```
 SELECT name AS "Tech Stack" FROM Skills.technos WHERE mastery = 'Big Brain 🧠' ORDER BY name ORDER ASC;
