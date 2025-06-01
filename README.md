@@ -1,16 +1,45 @@
-## Hi there 👋
+## About me
 
-<!--
-**Milo-Koson/Milo-Koson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young French guy with a passion for tech and everything that is computer related. I graduated from ESEO in September 2024, and initially specialised in embedded systems before finding my true passion in DevOps.
 
-Here are some ideas to get you started:
+I'm mostly working on Linux but as long as it is a UNIX system I'm fine with it !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also obtained my 2nd Master degree in Global Management from Université Paris Dauphine in 2023... But that's not important right now !
+
+You can reach me on LinkedIn or by mail for any work related stuff through the following links :
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/milo-koson/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:kosonmilo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
+</p>
+
+## My Tech Stack
+
+```
+SELECT name AS "Tech Stack" FROM Skills.technos WHERE mastery = 'Big Brain 🧠' ORDER BY name ORDER ASC;
+```
+
+<p align="center">
+  <a href="https://www.redhat.com/en/ansible-collaborative"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible"></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"></a>
+  <a href="https://www.gnu.org/software/gcc/"><img src="https://skillicons.dev/icons?i=c" alt="C"></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
+  <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
+  <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins"></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
+  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"></a>
+  <a href="https://developer.hashicorp.com/terraform"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform"></a>
+</p>
+
+```
+SELECT name AS "Tech Stack" FROM Skills.technos WHERE mastery = 'In Progress 🔨' ORDER BY name ORDER ASC;
+```
+
+<p align="center">
+  <a href="https://aws.amazon.com/?nc1=h_ls"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"></a>
+</p>
