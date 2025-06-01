@@ -1,12 +1,14 @@
 ## About me
 
-I'm a young French guy with a passion for tech and everything that is computer related. I graduated from ESEO in September 2024, and initially specialised in embedded systems before finding my true passion in DevOps.
+I'm a young French guy with a passion for tech and everything that is computer related. I graduated from ESEO in September 2024, and initially specialised in Embedded Systems before finding my true passion in DevOps.
 
 I'm mostly working on Linux but as long as it is a UNIX system I'm fine with it !
 
-I also obtained my 2nd Master degree in Global Management from Université Paris Dauphine in 2023... But that's not important right now !
+I also obtained my 2nd Master degree in Global Management from Université Paris Dauphine in 2023... *But that's not important right now !*
 
-You can reach me on LinkedIn or by mail for any work related stuff through the following links :
+If you look into my repositories you'll find both personnal & school projects that I thought were interesting to expose.
+
+You can reach me on LinkedIn or by Mail for any work related stuff through the following links :
 
 <p align="center">
   <a href="https://www.linkedin.com/in/milo-koson/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
