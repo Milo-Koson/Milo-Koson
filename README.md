@@ -17,7 +17,7 @@ You can reach me on LinkedIn or by Mail for any work related stuff through the f
 
 ### 💡 Philosophy
 
-> **"I may be far from knowing it all, but I'm never far from learning it all."**
+> **"I may not know everything, but I sure know how to learn everything."**
 
 ## 🛠️ My Tech Stack
 
