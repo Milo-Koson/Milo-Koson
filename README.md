@@ -17,7 +17,7 @@ You can reach me on LinkedIn or by Mail for any work related stuff through the f
 
 ### 💡 Philosophy
 
-> **"I may not know everything, but I sure know how to learn everything."**
+> **"I may not know everything, but I sure know how to learn everything !"**
 
 ## 🛠️ My Tech Stack
 
@@ -47,5 +47,6 @@ SELECT name AS "Tech Stack" FROM Skills.technos WHERE mastery = 'In Progress �
 
 <p align="center">
   <a href="https://aws.amazon.com/?nc1=h_ls"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=go" alt="Go"></a>
   <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"></a>
 </p>
