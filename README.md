@@ -47,6 +47,6 @@ SELECT name AS "Tech Stack" FROM Skills.technos WHERE mastery = 'In Progress ðŸ”
 
 <p align="center">
   <a href="https://aws.amazon.com/?nc1=h_ls"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>
-  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=go" alt="Go"></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go"></a>
   <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"></a>
 </p>
