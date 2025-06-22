@@ -32,10 +32,12 @@ SELECT name AS "Tech Stack" FROM Skills.technos WHERE mastery = 'Big Brain 🧠'
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
+  <a href="https://https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"></a>
   <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
   <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins"></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>
+  <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus"></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
   <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"></a>
   <a href="https://developer.hashicorp.com/terraform"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform"></a>
